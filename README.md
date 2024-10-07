@@ -1,1 +1,1 @@
-# Bootcamp
+Notes on Smoljames Roadmap
